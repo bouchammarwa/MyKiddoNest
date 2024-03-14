@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (lib\\homes\\bodies\\side_bar.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib\\homes\\bodies\\side_bar.dart"
+        }
+    ]
+}
