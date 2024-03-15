@@ -1,7 +1,9 @@
+// ignore_for_file: prefer_const_constructors
+
 import 'package:flutter/material.dart';
-import 'homes/addKid.dart';
-import 'screens/loginPage.dart';
-import 'screens/mainPage.dart';
+import 'package:mobileapp/view/screens/addKid.dart';
+import 'package:mobileapp/view/screens/loginPage.dart';
+import 'package:mobileapp/view/screens/mainPage.dart';
 
 void main() async {
   runApp(MyApp());
